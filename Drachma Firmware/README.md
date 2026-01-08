@@ -1,6 +1,6 @@
 # Drachma
 
-Drachma is a 37 key left-handed "30%" Hall-effect keyboard.
+Drachma is a 37 key left-handed "30%" Hall-effect keyboard. The firmware here is for HMK.
 
 - **Keyboard Maintainer**: [coincase]
 - **Hardware Support**: [peppapighs/HE60](https://github.com/peppapighs/HE60)
