@@ -1,6 +1,6 @@
 30% Left-Handed Hall Effect Keypad
 
-![alt text]([http://url/to/img.png](https://github.com/coincase1/Drachma/blob/main/Drachma_Keyboard.jpg))
+![alt text](https://github.com/coincase1/Drachma/blob/main/Drachma_Keyboard.jpg)
 
 Based on / Inspired by [Peppapigh's HE60](https://github.com/peppapighs/HE60).
 
