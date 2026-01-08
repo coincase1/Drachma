@@ -7,3 +7,5 @@ This keyboard is a PCB swap of the [Kisnt 34 Key Numpad](https://www.amazon.com/
 For anyone looking at this design at a later date, please be mindful of the Analog-to-Digital pins on the STM32F446 microcontroller. These can be verified on Sheets 46-56 of the STM32F446T MC Manual.
 
 For HE switches, my recommendation are either OH49E-S or SS39ET from Honeywell. The OH49E-S are clones of these switches and these are featured in a number of big box HE board builds.
+
+All Kicad and Firmware represents the latest (V3) Drachma build.
